@@ -1,0 +1,7 @@
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\bin\Debug\Nagasantosh_Assignment1.exe.config
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\bin\Debug\Nagasantosh_Assignment1.exe
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\bin\Debug\Nagasantosh_Assignment1.pdb
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\obj\Debug\Nagasantosh_Assignment1.csproj.AssemblyReference.cache
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\obj\Debug\Nagasantosh_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\obj\Debug\Nagasantosh_Assignment1.exe
+C:\Users\91900\Nagasantosh Chandrashekar\Nagasantosh_Assignment1\Nagasantosh_Assignment1\obj\Debug\Nagasantosh_Assignment1.pdb
